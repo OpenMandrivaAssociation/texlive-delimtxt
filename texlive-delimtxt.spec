@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-delimtxt
-Version:	20080818
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Read and parse text tables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/exptl/delimtxt
