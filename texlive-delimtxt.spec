@@ -3,7 +3,7 @@ Version:	16549
 Release:	2
 Summary:	Read and parse text tables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/exptl/delimtxt
+URL:		https://www.ctan.org/tex-archive/macros/latex/exptl/delimtxt
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/delimtxt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/delimtxt.doc.r%{version}.tar.xz
